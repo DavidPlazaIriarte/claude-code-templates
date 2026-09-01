@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T09:31:01.627376+00:00",
-  "totalJobs": 104,
+  "lastUpdated": "2026-09-01T08:27:31.494366+00:00",
+  "totalJobs": 105,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -751,6 +751,28 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
       "postedAt": "2026-07-10T19:56:01-04:00",
       "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5309805008",
+      "company": "Anthropic",
+      "position": "Engineering Manager, Connectivity - London",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "Our mission on the Connectivity team is to make Claude the most connected AI. As agents take on more real-world work, we're taking a leading role in defining how they get access to external systems — safely, with the right permissions, and in ways enterprises can trust. We ship for claude.ai ,...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5309805008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5309805008",
+      "postedAt": "2026-07-09T17:59:48-04:00",
+      "tags": [
+        "TypeScript",
+        "Python",
         "Rust",
         "AWS",
         "Claude Code",
